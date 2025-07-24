@@ -1,5 +1,5 @@
 # YetAnotherHackPad
-A macro pad (hackpad) that I made for the Hack Club (https://hackclub.highway.com)[Highway] event.
+A macro pad (hackpad) that I made for the Hack Club [Highway](https://hackclub.highway.com) event.
 
 ## Features
 9 inputs (MX switches)
