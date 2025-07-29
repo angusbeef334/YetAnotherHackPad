@@ -1,4 +1,4 @@
-25258641700114866
+25258641871150258
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65477,6 +65477,13 @@ solder jumper open
 0
 3
 3
+KiCad-SSD1306-0.91-OLED-4pin-128x32
+SSD1306-0.91-OLED-4pin-128x32
+
+
+0
+4
+4
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -92378,13 +92385,6 @@ rotary encoder illuminated switch vertical
 0
 9
 8
-SSD1306_OLED-0.91-128x32
-SSD1306_OLED-0.91-128x32
-
-
-0
-14
-14
 Seeed Studio XIAO Series Library
 XIAO-Add-On
 
